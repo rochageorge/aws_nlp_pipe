@@ -1,3 +1,6 @@
-# aws_nlp_pipe
+# AWS sentiment analysis using AWS
 
-Sentiment analysis end-to-end pipeline, built in AWS.
+This project has the purpose of consolidating skills learned in the practical data science specialization.
+
+    1 - Fetch and clean the data
+    2 - Feature store
