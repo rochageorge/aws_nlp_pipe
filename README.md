@@ -4,3 +4,4 @@ This project has the purpose of consolidating skills learned in the practical da
 
     1 - Fetch and clean the data (ingest_transform)
     2 - Bias fixing (bias_fix)
+    3 - AutoML (autopilot)
